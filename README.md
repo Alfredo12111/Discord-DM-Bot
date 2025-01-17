@@ -6,3 +6,5 @@ To use this bot, download the discordbot file, open the python script in notepad
 under OAuth enable the bot and applications.commands and then i just did admin but you can do individual permissions if youd like. then invite the bot to your server.
 
 To run the bot go to CMD. cd /users/xxx/discordbot/ then type python bot.py and the bot should be up and running. If it doesnt work ensure youve done "pip install discord.py"
+
+Also ensure youve set the correct permissions for the bot, Go to server settings > Integrations > CLick on your bot > under commands click /dm > add yourself and click the check mark > click everyone and click the X 
